@@ -1,4 +1,4 @@
-![Farhanbagask](img/github-header-banner.png)
+![Farhanbagask](img/github-header-baner.png)
 
 ## 🛠️ Tech Stack
 
