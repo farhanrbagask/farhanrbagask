@@ -1,7 +1,11 @@
 ![Farhanbagask](img/github-header-baner.png)
 
+<<<<<<< HEAD
 ##  Tech Stack
 Building web applications and data-driven solutions using Python, Laravel, and Machine Learning.
+=======
+## Tech Stack
+>>>>>>> 284cdf77ce078fcca3712c4af9fc7257159578fb
 
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
